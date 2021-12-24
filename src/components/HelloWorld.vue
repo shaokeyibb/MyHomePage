@@ -3,7 +3,7 @@
     <v-row class="text-center">
       <v-col cols="12">
         <v-avatar size="200">
-          <v-img :src="'http://q1.qlogo.cn/g?b=qq&nk='+social[2].number+'&s=640'"/>
+          <v-img :src="'https://q1.qlogo.cn/g?b=qq&nk='+social[2].number+'&s=640'"/>
         </v-avatar>
       </v-col>
 
